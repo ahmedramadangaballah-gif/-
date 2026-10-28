@@ -1,0 +1,8 @@
+{
+  "name": "Snake Crash Arena",
+  "description": "حلبة لعبة الثعبان الاحترافية Snake Crash - العب كزائر أو أونلاين عبر الهاتف والكمبيوتر",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
